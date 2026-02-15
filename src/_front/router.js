@@ -25,7 +25,7 @@ import pluginsSettings from '../../plugins-settings.json';
 // eslint-disable-next-line no-undef
 window.wwg_designInfo = {"id":"5f77ee47-fb63-45c5-84a9-88b15ab228bb","homePageId":"e4194865-b3d6-4754-809a-465ef479680d","authPluginId":null,"baseTag":null,"defaultTheme":"light","langs":[{"lang":"mn","default":true}],"background":{},"workflows":[],"pages":[{"id":"e4194865-b3d6-4754-809a-465ef479680d","linkId":"e4194865-b3d6-4754-809a-465ef479680d","name":"Home","folder":null,"paths":{"mn":"home","default":"home"},"langs":["mn"],"cmsDataSetPath":null,"sections":[{"uid":"9225722d-4789-44db-9e49-28d1544c8963","sectionTitle":"Page Background","linkId":"6ae99005-e7b1-4dd6-a1ef-b29c816ef25c"}],"pageUserGroups":[],"title":{"en":"","fr":"Vide | Commencer à partir de zéro","mn":"CityAd B2B RFQ Platform"},"meta":{"desc":{},"keywords":{},"socialDesc":{},"socialTitle":{},"structuredData":{}},"metaImage":""}],"plugins":[{"id":"2bd1c688-31c5-443e-ae25-59aa5b6431fb","name":"REST API","namespace":"restApi"},{"id":"fdf6b667-9515-4086-87ef-6042fc6f20fb","name":"Google Sheets","namespace":"googleSheets"}]};
 // eslint-disable-next-line no-undef
-window.wwg_cacheVersion = 4;
+window.wwg_cacheVersion = 5;
 // eslint-disable-next-line no-undef
 window.wwg_pluginsSettings = pluginsSettings;
 // eslint-disable-next-line no-undef
