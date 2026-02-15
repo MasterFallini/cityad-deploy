@@ -1,0 +1,16 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "8d34a3bc-0f43-42fc-b4b9-4db23de5d4ac",
+        "name": "REST API",
+        "designId": "5f77ee47-fb63-45c5-84a9-88b15ab228bb",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "fdf6b667-9515-4086-87ef-6042fc6f20fb": {
+        "id": "f43c26e1-5d55-4355-91e5-843f10fd785a",
+        "name": "Google Sheets",
+        "designId": "5f77ee47-fb63-45c5-84a9-88b15ab228bb",
+        "pluginId": "fdf6b667-9515-4086-87ef-6042fc6f20fb",
+        "publicData": {}
+    }
+}
